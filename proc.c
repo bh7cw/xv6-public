@@ -555,3 +555,9 @@ cps()
 
     return 22;
 }
+
+int
+rc()
+{
+    return 0;
+}
